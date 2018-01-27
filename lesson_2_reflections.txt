@@ -6,3 +6,8 @@ Q: How is the staging area different from the working directory and the reposito
 a) It is intermediary between the working directory and the repository.
 b) It offers the ability to only have certain files to be saved in the repository instead ALL files.
 
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+a) By comparing the staged file with the most recent commit by running "git diff --staged"
+
+
