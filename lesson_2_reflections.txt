@@ -11,3 +11,8 @@ Q: How can you use the staging area to make sure you have one commit per logical
 a) By comparing the staged file with the most recent commit by running "git diff --staged"
 
 
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+a) experimenting with a new feature
+b) re-writing a part of the code
+c) creating a new version of the code in a different language
+
