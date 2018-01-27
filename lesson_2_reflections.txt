@@ -1,0 +1,8 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+a) a directory called ".git" is created that saves all the meta data about the changes we make in the files or the "commits"!
+
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+a) It is intermediary between the working directory and the repository.
+b) It offers the ability to only have certain files to be saved in the repository instead ALL files.
+
