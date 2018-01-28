@@ -16,3 +16,7 @@ a) experimenting with a new feature
 b) re-writing a part of the code
 c) creating a new version of the code in a different language
 
+
+Q: How do the diagrams help you visualize the branch structure?
+a) By knowing the parent of each commit
+
