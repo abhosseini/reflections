@@ -20,3 +20,9 @@ c) creating a new version of the code in a different language
 Q: How do the diagrams help you visualize the branch structure?
 a) By knowing the parent of each commit
 
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+a) A merged branch
+b) Because ...
+
+
