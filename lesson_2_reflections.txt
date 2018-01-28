@@ -26,3 +26,8 @@ a) A merged branch
 b) Because ...
 
 
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+a) Resolving conflicts would be more accurate when done by human even though it might be tedious! Git doesn't really understand the logic behind the changes/commits made!
+
+
+
